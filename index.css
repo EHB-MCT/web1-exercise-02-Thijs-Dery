@@ -1,0 +1,23 @@
+@import url('https://fonts.google.com/noto/specimen/Noto+Sans+Display?category=Sans+Serif');
+
+body{
+    background-color: #e9eaea;
+    margin: 40px;
+    font-family: 'Noto Sans Display', sans-serif;
+}
+div{
+    margin-bottom: 40px;
+    margin-top: -10px;
+}
+a{
+    background-color: #ff5b5c;
+    padding: 12px 10px;
+    text-decoration: none;
+    color: #fff3fd;
+}
+
+h1{
+    color: #ff5558;
+}
+
+.grijs{color: #a4928e;}
